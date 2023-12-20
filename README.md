@@ -1,7 +1,7 @@
 Pipeline designed for Vibrio genus
 ## Installation ##
 Dowload the pipeline using the command:
-	`git clone https://github.com/lfdelzam/Degprimer_design`
+	`git clone https://github.com/EnvGen/Degprimer_design`
 
 The pipeline uses the programs:
 
