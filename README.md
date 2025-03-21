@@ -59,7 +59,7 @@ and modify the parameters and save changes by taping `ctrl x` and tape `y`:
 run the pipeline using the commands:
 
 	`conda activate primers`
-	`snakemake -s design_primer --cores <number of threads>`
+	`snakemake -s Degprimer_design.smk --cores <number of threads>`
 
 ## output ##
 
