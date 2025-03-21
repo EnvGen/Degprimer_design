@@ -17,7 +17,7 @@ The pipeline uses the programs:
 
 conda create -n primers -c bioconda snakemake=3.13.3 muscle=3.8.1551
 
-Degeprime and MFEprimer must be manually downloaded if you want to use a different version. 
+Degeprime and MFEprimer must be manually downloaded if you want to use a different version. Click [here](https://www.mfeprimer.com/mfeprimer-3.1/#2-command-line-version) for detailed instructions on how to install MFEprimer. Be sure to name the installation `mfeprimer` and place it in the `src/MFEprimer3` folder.
 
 ## Usage ##
 
