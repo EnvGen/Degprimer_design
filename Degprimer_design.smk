@@ -1,6 +1,6 @@
 import os
 
-configfile: "./config_primer_design.json"
+configfile: "./config_Degprimer_design.json"
 
 ds=config["degeneracies"].split(",")
 ls=config["primer_sizes"].split(",")
